@@ -1,0 +1,41 @@
+.heading
+{
+   width:100%; 
+   text-align: left;
+}
+.heading h3
+{
+    display:inline;/*for displaying a button and the heading in a single line*/
+    
+}
+.heading button
+{
+    float:right;
+    border: 3px solid white;
+}
+.Big_image
+{
+    width: 100%;
+}
+h4
+{
+    margin:0px;
+    background-color: rgb(255, 7, 7);
+    line-height: 1cm;
+}
+.instructions-image
+{
+    display:inline-block;
+    width:45%;
+}
+.modal-dialog
+{
+width:90%;
+}
+video
+{
+background-image:url("game_console.png");
+background-size: cover;
+background-position: center;
+padding:25px;
+}
